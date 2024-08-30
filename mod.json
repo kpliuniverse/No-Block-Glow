@@ -13,6 +13,7 @@
 	"description": "Removes object glow when placing objects into the editor.",
 	"repository": "https://github.com/kazido/No-Block-Glow",
 	"links" : {
-		"source": "https://github.com/HJfod/BetterEdit",
-	}
+		"source": "https://github.com/HJfod/BetterEdit"
+	},
+	"tags": ["editor"]
 }
