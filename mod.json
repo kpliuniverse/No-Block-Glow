@@ -10,5 +10,10 @@
 	"name": "No Block Glow",
 	"version": "v1.0.0",
 	"developer": "bry400",
-	"description": "Removes object glow when placing objects into the editor."
+	"description": "Removes object glow when placing objects into the editor.",
+	"repository": "https://github.com/kazido/No-Block-Glow",
+	"links" : {
+		"source": "https://github.com/HJfod/BetterEdit",
+	},
+	"tags": ["editor"]
 }
