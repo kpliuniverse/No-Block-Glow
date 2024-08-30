@@ -1,3 +1,3 @@
 ## Support me!
 
-My paypal is [paypal.me/ellalbrys](paypal.me/ellalbrys)
+My paypal is [ellalbrys](https://www.paypal.com/paypalme/ellalbrys)
