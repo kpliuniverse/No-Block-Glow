@@ -1,0 +1,14 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "bry400.no_block_glow",
+	"name": "No Block Glow",
+	"version": "v1.0.0",
+	"developer": "bry400",
+	"description": "Removes object glow when placing objects into the editor."
+}
