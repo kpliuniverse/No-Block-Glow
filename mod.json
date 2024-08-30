@@ -12,8 +12,24 @@
 	"developer": "bry400",
 	"description": "Removes object glow when placing objects into the editor.",
 	"repository": "https://github.com/kazido/No-Block-Glow",
-	"links" : {
+	"links": {
 		"source": "https://github.com/kazido/No-Block-Glow"
 	},
-	"tags": ["editor"]
+	"tags": [
+		"editor"
+	],
+	"settings": {
+		"dont-fade": {
+			"name": "Don't Fade",
+			"type": "bool",
+			"description": "Automatically enables Don't Fade on all placed objects.",
+			"default": false
+		},
+		"dont-enter": {
+			"name": "Don't Enter",
+			"type": "bool",
+			"description": "Automatically enables Don't Enter on all placed objects.",
+			"default": false
+		}
+	}
 }

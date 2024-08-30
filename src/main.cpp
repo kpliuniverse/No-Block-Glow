@@ -8,6 +8,9 @@ class $modify(LevelEditorLayer) {
 		GameObject* object = LevelEditorLayer::createObject(p0, p1, p2);
 
 		object->m_hasNoGlow = true;
+		object->m_isDontFade = Mod::get()->getSettingValue<bool>("dont-fade");
+		object->m_isDontEnter = Mod::get()->getSettingValue<bool>("dont-enter");
+
         return object;
     }
 };
