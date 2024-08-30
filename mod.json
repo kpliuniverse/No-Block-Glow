@@ -19,6 +19,12 @@
 		"editor"
 	],
 	"settings": {
+		"no-glow":{
+			"name": "No Glow",
+			"type": "bool",
+			"description": "Automatically enables No Glow on all placed objects.",
+			"default": true
+		},
 		"dont-fade": {
 			"name": "Don't Fade",
 			"type": "bool",
